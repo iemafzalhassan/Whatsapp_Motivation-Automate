@@ -1,5 +1,4 @@
 import requests
-
 url = "https://quotes.rest/qod?language=en"
 
 res = requests.get(url=url)
